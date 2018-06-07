@@ -946,39 +946,46 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qTu6tX40SU {
-  background-image: url("../../../assets/images/dollarphotoclub-80904667-2000x1000.jpg");
+.cid-qUjqWlBu2F {
+  background-image: url("../../../assets/images/backhome2-1-2000x1333.jpg");
 }
-.cid-qTu6tX40SU *::-moz-selection {
+.cid-qUjqWlBu2F *::-moz-selection {
   background: #000000;
   color: #ffffff;
 }
-.cid-qTu6tX40SU *::selection {
+.cid-qUjqWlBu2F *::selection {
   background: #000000;
   color: #ffffff;
 }
-.cid-qTu6tX40SU .media-content .btn-bgr {
+.cid-qUjqWlBu2F .media-content .btn-bgr {
   z-index: 0;
 }
-.cid-qTu6tX40SU .mbr-overlay {
+.cid-qUjqWlBu2F .mbr-overlay {
   background: linear-gradient(90deg, #000000, #000000);
 }
 @media (min-width: 992px) {
-  .cid-qTu6tX40SU .media-content {
+  .cid-qUjqWlBu2F .media-content {
     -webkit-flex-basis: auto;
     flex-basis: auto;
   }
 }
 @media (max-width: 991px) {
-  .cid-qTu6tX40SU {
+  .cid-qUjqWlBu2F {
     text-align: center !important;
   }
-  .cid-qTu6tX40SU .mbr-text {
+  .cid-qUjqWlBu2F .mbr-text {
     text-align: center;
   }
 }
-.cid-qTu6tX40SU .media-container-row {
+.cid-qUjqWlBu2F .media-container-row {
   justify-content: flex-start;
+  justify-content: flex-end;
+}
+.cid-qUjqWlBu2F DIV {
+  text-align: right;
+}
+.cid-qUjqWlBu2F H1 {
+  text-align: right;
 }
 .cid-qTDZa4PIi6 {
   padding-top: 120px;
@@ -1051,11 +1058,11 @@ body {
   background: linear-gradient(#000000 -10%, #000000 75%);
 }
 .cid-qTVdKSjXU9 {
-  background-image: url("../../../assets/images/card-foto-2000x885.png");
+  background-image: url("../../../assets/images/gabriel2-1-1024x575.png");
 }
 .cid-qTVdKSjXU9 .column-content {
-  padding-top: 140px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 105px;
   background-color: #000000;
   width: 100%;
   float: right;
@@ -1073,7 +1080,7 @@ body {
   z-index: 0;
 }
 .cid-qTVdKSjXU9 .mbr-overlay {
-  background: linear-gradient(#d6173f -10%, #00113e 75%);
+  background: linear-gradient(#000000 -10%, #000000 75%);
 }
 .cid-qTVdKSjXU9 .container-full-width {
   position: relative;
